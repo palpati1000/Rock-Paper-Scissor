@@ -58,5 +58,6 @@ flask run
 ```
 
 > NOTE: you can quit the server by pressing ctrl+c at any time. If you change a file, you'll likely need to restart the server for the changes to take effect.
+* These files and scripts are not intended for malicious purposes
 
 # [License](/LICENSE.md)
